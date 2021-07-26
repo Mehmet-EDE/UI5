@@ -1,0 +1,7 @@
+<mvc:View controllerName="com.UI5Starter.Application.Dashboard.controller.Dashboard"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns="sap.m">
+	<Page showHeader="false">
+		<Button text="dsad"/>
+		</Page>
+	</mvc:View>
